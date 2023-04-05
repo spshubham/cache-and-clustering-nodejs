@@ -1,0 +1,19 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
